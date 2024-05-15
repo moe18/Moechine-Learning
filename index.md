@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+Moechine Learning: Welcome to my blog
 ---
 
